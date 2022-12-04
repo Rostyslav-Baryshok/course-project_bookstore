@@ -1,1 +1,1 @@
-# course-project_bookstore
+# Course project "Book online store"
